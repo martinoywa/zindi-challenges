@@ -9,4 +9,4 @@ Solutions for Zindi challenges that I've participated in.
 |Local Ocean Conservation - Sea Turtle Face Detection|22/25|
 |Kenya Hack - Tanzania Tourism Prediction Challenge by Nairobi Women In Machine Learning Data Science|39/48|
 |Runmila AI Institute & minoHealth AI Labs Tuberculosis Classification via X-Rays Challenge|70/104|
-|Tanzania Tourism Prediction by Pycon Tanzania Community|43/314|
+|Tanzania Tourism Prediction by Pycon Tanzania Community|17/314|
