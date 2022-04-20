@@ -10,3 +10,4 @@ Solutions for Zindi challenges that I've participated in.
 |Kenya Hack - Tanzania Tourism Prediction Challenge by Nairobi Women In Machine Learning Data Science|39/48|
 |Runmila AI Institute & minoHealth AI Labs Tuberculosis Classification via X-Rays Challenge|70/104|
 |Tanzania Tourism Prediction by Pycon Tanzania Community|17/314|
+|Makerere Fall Armyworm Crop Challenge|18/94|
